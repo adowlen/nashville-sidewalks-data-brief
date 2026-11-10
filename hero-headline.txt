@@ -1,0 +1,2 @@
+3,762 of Nashville's 14,938 inventoried sidewalk segments (25.2%) are recorded Fair or Poor - 1,454 of them Poor - and only 69 of the 1,454 Poor segments carry a recorded repair cost
+Source line: Metro Nashville Sidewalks Inventory (Sidewalks_View) - 14,938 segments pulled Nov 10, 2026 | Machine Readable
