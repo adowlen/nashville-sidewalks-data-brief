@@ -1,0 +1,144 @@
+{
+  "checks": [
+    {
+      "check": "rows",
+      "got": 14938,
+      "want": 14938,
+      "pass": true
+    },
+    {
+      "check": "server_count_live",
+      "got": 14938,
+      "want": 14938,
+      "pass": true
+    },
+    {
+      "check": "condition_Good",
+      "got": 9399,
+      "want": 9399,
+      "pass": true
+    },
+    {
+      "check": "condition_Fair",
+      "got": 2308,
+      "want": 2308,
+      "pass": true
+    },
+    {
+      "check": "condition_Poor",
+      "got": 1454,
+      "want": 1454,
+      "pass": true
+    },
+    {
+      "check": "condition_Unknown",
+      "got": 1777,
+      "want": 1777,
+      "pass": true
+    },
+    {
+      "check": "poor_pct",
+      "got": 9.7,
+      "want": 9.7,
+      "pass": true
+    },
+    {
+      "check": "total_length_ft",
+      "got": 7400787.530619599,
+      "want": 7400787.5,
+      "pass": true
+    },
+    {
+      "check": "poor_length_ft",
+      "got": 747462.1018579024,
+      "want": 747462.1,
+      "pass": true
+    },
+    {
+      "check": "score_positive_n",
+      "got": 3720,
+      "want": 3720,
+      "pass": true
+    },
+    {
+      "check": "score_median",
+      "got": 90.0,
+      "want": 90.0,
+      "pass": true
+    },
+    {
+      "check": "score_p90_nearest_rank",
+      "got": 130.0,
+      "want": 130.0,
+      "pass": true
+    },
+    {
+      "check": "cost_carrying_n",
+      "got": 1771,
+      "want": 1771,
+      "pass": true
+    },
+    {
+      "check": "cost_sum",
+      "got": 59743161.84829508,
+      "want": 59743161.85,
+      "pass": true
+    },
+    {
+      "check": "cost_median",
+      "got": 25267.91333333,
+      "want": 25267.91333333,
+      "pass": true
+    },
+    {
+      "check": "cost_on_good_n",
+      "got": 1520,
+      "want": 1520,
+      "pass": true
+    },
+    {
+      "check": "score_on_poor_n",
+      "got": 1415,
+      "want": 1415,
+      "pass": true
+    },
+    {
+      "check": "district11_n",
+      "got": 570,
+      "want": 570,
+      "pass": true
+    },
+    {
+      "check": "district11_poor",
+      "got": 175,
+      "want": 175,
+      "pass": true
+    },
+    {
+      "check": "district21_poor",
+      "got": 212,
+      "want": 212,
+      "pass": true
+    },
+    {
+      "check": "single_district_n",
+      "got": 14757,
+      "want": 14757,
+      "pass": true
+    },
+    {
+      "check": "repaired_dated_n",
+      "got": 2182,
+      "want": 2182,
+      "pass": true
+    },
+    {
+      "check": "good_share_repaired_pct",
+      "got": 82.1,
+      "want": 82.1,
+      "pass": true
+    }
+  ],
+  "pass": 23,
+  "total": 23
+}

@@ -1,0 +1,7 @@
+{
+  "source": "https://services2.arcgis.com/HdTo6HJqh92wn4D8/arcgis/rest/services/Sidewalks_View/FeatureServer/0/query",
+  "server_count": 14938,
+  "rows": 14938,
+  "fields": "*",
+  "pull_date": "2026-11-10"
+}

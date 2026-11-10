@@ -1,0 +1,758 @@
+ROWS 14938
+OBJECTID unique 14938
+GlobalID unique 14938
+COUNTER Condition n_unique=12
+  'GOOD': 9010
+  'FAIR': 2308
+  'POOR': 1454
+  ' ': 992
+  '': 770
+  'Good': 386
+  'NA': 13
+  '31': 1
+  ' GOOD': 1
+  'Good ': 1
+  'Goo': 1
+  'gOOD': 1
+COUNTER District n_unique=90
+  '19': 1660
+  '21': 1133
+  '33': 1001
+  '31': 923
+  '17': 811
+  '06': 723
+  '05': 709
+  '11': 570
+  '18': 498
+  '24': 481
+  '12': 466
+  '35': 451
+  '32': 416
+  '14': 387
+  '04': 342
+  '20': 336
+  '02': 328
+  '15': 282
+  '03': 261
+  '10': 251
+  '08': 227
+  '16': 212
+  '07': 208
+  '28': 200
+  '25': 196
+  '22': 192
+  '09': 175
+  '26': 161
+  '29': 154
+  '01': 151
+  '34': 124
+  '13': 111
+  '27': 102
+  '3': 95
+  '30': 80
+  '2': 55
+  '4': 54
+  '23': 53
+  '1': 42
+  '8': 40
+  '6': 30
+  '5': 30
+  '': 29
+  '9': 20
+  '7': 16
+  '19, 21': 10
+  '05, 06': 9
+  '20, 24': 9
+  '21, 24': 8
+  '18, 25': 8
+  '16, 17': 8
+  '06, 19': 7
+  '17, 19': 7
+  '28, 32': 6
+  '01, 02': 6
+  '22, 23': 6
+  '14, 15': 5
+  '20, 21': 5
+  '02, 03': 4
+  '31, 33': 4
+  '02, 05': 4
+  '17, 25': 4
+  '18, 24': 4
+  '05, 19': 3
+  '13, 16': 3
+  '04, 34': 2
+  '18, 21': 2
+  '05, 08': 2
+  '26, 30': 2
+  '25, 34': 2
+  '22, 35': 2
+  '18, 19': 2
+  '32, 33': 1
+  '02, 21': 1
+  '09, 10': 1
+  '16, 25': 1
+  'Good': 1
+  '13, 28, 30': 1
+  ' ': 1
+  '16, 26': 1
+  '31, 32': 1
+  '15, 19': 1
+  '13, 26': 1
+  '02, 19': 1
+  '17, 18': 1
+  '13, 15': 1
+  '27, 31': 1
+  '06, 07': 1
+  '20, 35': 1
+  '23, 24': 1
+COUNTER Side n_unique=26
+  'E': 3652
+  'W': 3647
+  'N': 3597
+  'S': 3560
+  'NE': 115
+  'NW': 111
+  'SW': 101
+  'SE': 86
+  '': 26
+  'N/A': 17
+  ' ': 6
+  'E, W': 3
+  'East': 3
+  'All': 2
+  'w': 1
+  'South': 1
+  'W, S': 1
+  's': 1
+  'M': 1
+  'Northwest': 1
+  'E, N': 1
+  'N, W': 1
+  'N, E': 1
+  'E ': 1
+  'se': 1
+  'North/West': 1
+COUNTER SidewalkWidth n_unique=237
+  '5': 7768
+  '': 1286
+  '6': 770
+  '5.5': 626
+  '4': 568
+  '8': 506
+  '9': 384
+  '7': 344
+  '10': 198
+  '3.5': 198
+  '5-6': 176
+  '5-7': 164
+  '5-8': 143
+  '5-5.5': 141
+  '4-5': 103
+  '3': 99
+  '5-9': 75
+  '4.5': 70
+  '8.5': 70
+  '6.5': 57
+  '5-10': 52
+  '6-8': 50
+  '4.5-5': 49
+  '6-7': 43
+  '7.5': 43
+  '5.5-6': 35
+  '6-9': 35
+  '12': 34
+  '8-9': 34
+  '5.5-7': 29
+  '8.5-9': 24
+  '7-9': 24
+  '5-6.5': 23
+  '15': 21
+  '5-7.5': 20
+  '9.5': 20
+  '5-9.5': 19
+  '7-8': 19
+  '6-10': 19
+  '5.5-8': 17
+  '6-6.5': 15
+  '10.5': 15
+  '4-6': 14
+  '11': 14
+  '5-8.5': 12
+  '5.5-9': 11
+  '5-12': 11
+  '3.5-5.5': 11
+  '3.5-4': 11
+  '9-9.5': 10
+  '3-5': 10
+  '7-10': 10
+  '5.5-7.5': 10
+  '6.5-7': 9
+  '4-9': 9
+  '4-7': 9
+  '8-10': 8
+  '9-10': 8
+  '6-8.5': 8
+  '6-12': 7
+  '7.5-8': 7
+  '6-7.5': 7
+  '5.5-6.5': 7
+  '3-4': 7
+  '14': 7
+  '5.5-10': 7
+  '7-8.5': 6
+  '14.5': 6
+  '6-9.5': 6
+  '4-5.5': 6
+  '4-4.5': 6
+  '6.5-9': 6
+  '24.5': 6
+  '8-8.5': 5
+  '15.5': 5
+  '5.5-8.5': 5
+  '20': 5
+  '8-9.5': 5
+  '4.5-7': 5
+  '4-8': 5
+  '13': 5
+  '8-15': 5
+  '9-12': 4
+  '17': 4
+  '18': 4
+  '3-5.5': 4
+  '4.5-8': 4
+  '9.5-10': 4
+  '10-12': 4
+  '4.5-6': 4
+  '9-15': 4
+  '6-16': 3
+  '4-6.5': 3
+  '5-12.5': 3
+  '5-15': 3
+  '11.5': 3
+  '7-9.5': 3
+  '8-10.5': 3
+  '4.5-9': 3
+  '13.5': 3
+  '4.5-8.5': 3
+  '10-15': 3
+  '7.5-9': 3
+  '10-20': 3
+  '8.5-13': 2
+  '14-16': 2
+  '12.5': 2
+  '7-7.5': 2
+  '5-14': 2
+  '7-10.5': 2
+  '22': 2
+  '32': 2
+  '3-4.5': 2
+  '6.5-9.5': 2
+  '5.5-9.5': 2
+  '8.5-9.5': 2
+  '19': 2
+  '6.5-12.5': 2
+  '9-11.5': 2
+  '8.5-10': 2
+  '7.5-8.5': 2
+  '5-13': 2
+  '16.5': 2
+  '24': 2
+  '5.5-14': 2
+  '10-13': 2
+  '6.5-8': 2
+  '5.5-12.5': 2
+  '18.5': 2
+  '30': 2
+  '5.5-11': 2
+  '3-3.5': 2
+  '5-11': 2
+  '10-14': 2
+  '3.5-5': 2
+  '9-10.5': 2
+  '4.5-7.5': 2
+  '8-12.5': 1
+  '15-25': 1
+  '16.5-25': 1
+  '7-12': 1
+  '17-21': 1
+  '9-14': 1
+  '5-20': 1
+  '12-16': 1
+  '8.5-24.5': 1
+  '8-13': 1
+  '2.5-5.5': 1
+  '5-23': 1
+  '19.5': 1
+  '4.5-9.5': 1
+  '6.5-10': 1
+  '18.5-30': 1
+  '16.5-17.5': 1
+  '8-11.5': 1
+  '9-17': 1
+  '9-13.5': 1
+  '7.5-10.5': 1
+  '9-16': 1
+  '5.5-14.5': 1
+  '32.5': 1
+  '6.5-7.5': 1
+  '21.5': 1
+  '12-15': 1
+  '20-30': 1
+  '25': 1
+  '6-11.5': 1
+  '5.5-29': 1
+  '3-6': 1
+  '15.5-18': 1
+  '6.5-8.5': 1
+  '9-35': 1
+  '4-12': 1
+  '4-7.5': 1
+  '8.5-11': 1
+  '4.5-12.5': 1
+  '10.5-37': 1
+  '2-4.5': 1
+  '45': 1
+  '9-20': 1
+  '21': 1
+  '8.5-14.5': 1
+  '2.5-3.5': 1
+  '16-35': 1
+  '5-16': 1
+  '6.5-15': 1
+  '5.5-13': 1
+  '3.5-6': 1
+  '6-18': 1
+  '9.5-15': 1
+  '8-13.5': 1
+  '10-13.5': 1
+  '10-14.5': 1
+  '27': 1
+  '13.5-14': 1
+  '15-18': 1
+  '2': 1
+  '2.5-7.5': 1
+  '6-10.5': 1
+  '15-22': 1
+  ... (37 more values not printed)
+COUNTER OnStreet n_unique=3232
+  'Old Hickory Blvd': 204
+  'Nolensville Pike': 115
+  'Gallatin Pike': 106
+  'Murfreesboro Pike': 75
+  'Charlotte Ave': 69
+  'Lebanon Pike': 68
+  'Dickerson Pike': 66
+  'West End Ave': 57
+  'McGavock Pike': 47
+  '8th Ave S': 46
+  'Bell Rd': 45
+  'Rosa L Parks Blvd': 45
+  '12th Ave S': 45
+  'Buchanan St': 44
+  'Charlotte Pike': 42
+  '14th Ave N': 41
+  'Douglas Ave': 41
+  'Wedgewood Ave': 40
+  '21st Ave N': 40
+  '10th Ave N': 40
+  '21st Ave S': 39
+  'Church St': 37
+  '4th Ave N': 37
+  'Clarksville Pike': 37
+  'Belmont Blvd': 37
+  '4th Ave S': 36
+  'Sunnywood Dr': 36
+  'Jefferson St': 36
+  'Woodland St': 35
+  'Broadway': 35
+  'Shelby Ave': 35
+  '17th Ave N': 35
+  '11th Ave N': 34
+  'Dr D B Todd Jr Blvd': 34
+  '16th Ave N': 34
+  '3rd Ave N': 33
+  '5th Ave N': 33
+  '12th Ave N': 33
+  'Hillsboro Pike': 32
+  'Meridian St': 32
+  'Clifton Ave': 32
+  'Russell St': 31
+  '25th Ave N': 31
+  '2nd Ave S': 31
+  'Harding Pl': 31
+  'Elm Hill Pike': 31
+  '9th Ave N': 31
+  'Gallatin Ave': 30
+  'Fatherland St': 30
+  '28th Ave N': 30
+  '10th Ave S': 30
+  'Antioch Pike': 30
+  '24th Ave N': 30
+  'Natchez Trace': 29
+  '51st Ave N': 28
+  'Hadley Ave': 28
+  '3rd Ave S': 28
+  '23rd Ave N': 28
+  'Brick Church Pike': 27
+  'Lischey Ave': 27
+  ... (3172 more values not printed)
+COUNTER FromStreet n_unique=4533
+  'Cul-De-Sac': 593
+  'Dead End': 323
+  'Old Hickory Blvd': 91
+  'Nolensville Pike': 59
+  'Murfreesboro Pike': 51
+  '12th Ave S': 50
+  '8th Ave S': 46
+  'Charlotte Ave': 46
+  '21st Ave N': 43
+  'Dickerson Pike': 43
+  'West End Ave': 42
+  '10th Ave N': 42
+  'Cul-de-sac': 40
+  'Buchanan St': 40
+  '24th Ave N': 39
+  '16th Ave N': 39
+  'Lebanon Pike': 39
+  '14th Ave N': 37
+  '25th Ave N': 37
+  'Douglas Ave': 36
+  'Church St': 35
+  '17th Ave N': 35
+  '5th Ave N': 35
+  'Gallatin Pike': 34
+  '4th Ave N': 33
+  '10th Ave S': 32
+  '26th Ave N': 32
+  '28th Ave N': 32
+  'Gallatin Ave': 32
+  'Jefferson St': 32
+  'Woodland St': 31
+  'Rosa L Parks Blvd': 31
+  '4th Ave S': 31
+  '21st Ave S': 30
+  'Belmont Blvd': 30
+  'Clarksville Pike': 30
+  'Meridian St': 29
+  'Lafayette St': 29
+  'Bell Rd': 29
+  '3rd Ave S': 28
+  '3rd Ave N': 28
+  'Albion St': 28
+  'Jo Johnston Ave': 28
+  'Shelby Ave': 28
+  '6th Ave N': 28
+  '23rd Ave N': 28
+  'Broadway': 27
+  'Russell St': 26
+  'Thirteenth St': 26
+  'Jackson St': 26
+  '18th Ave S': 25
+  '11th Ave N': 25
+  '40th Ave N': 25
+  '15th Ave S': 25
+  'Hamilton Church Rd': 24
+  'Dr D B Todd Jr Blvd': 24
+  'Fatherland St': 24
+  'Richardson Ave': 24
+  'Wedgewood Ave': 24
+  '7th Ave N': 24
+  ... (4473 more values not printed)
+COUNTER ToStreet n_unique=4620
+  'Cul-De-Sac': 608
+  'Dead End': 378
+  'Cul-de-sac': 141
+  'Old Hickory Blvd': 90
+  'Charlotte Ave': 64
+  '14th Ave N': 54
+  '12th Ave S': 47
+  '21st Ave N': 42
+  'Nolensville Pike': 42
+  'West End Ave': 41
+  'Murfreesboro Pike': 40
+  'Wedgewood Ave': 39
+  'Church St': 39
+  '24th Ave N': 39
+  'Broadway': 37
+  '8th Ave S': 36
+  '16th Ave N': 36
+  '4th Ave N': 36
+  '3rd Ave N': 35
+  '11th Ave S': 35
+  '9th Ave N': 35
+  'Dr D B Todd Jr Blvd': 34
+  '9th Ave S': 34
+  '11th Ave N': 34
+  'Gallatin Pike': 33
+  'Sunnywood Dr': 33
+  '17th Ave N': 32
+  '10th Ave N': 32
+  'Dickerson Pike': 32
+  '21st Ave S': 32
+  '2nd Ave S': 31
+  'Buchanan St': 31
+  '5th Ave N': 31
+  'Shelby Ave': 30
+  'Richardson Ave': 30
+  'Bell Rd': 30
+  '10th Ave S': 29
+  '26th Ave N': 29
+  'Rosa L Parks Blvd': 28
+  'Lebanon Pike': 28
+  'Woodland St': 28
+  'Thirteenth St': 28
+  'Jefferson St': 28
+  'Herman St': 28
+  'Clifton Ave': 28
+  'Lischey Ave': 27
+  'Gallatin Ave': 27
+  '12th Ave N': 27
+  '4th Ave S': 27
+  '7th Ave N': 27
+  'Russell St': 26
+  '3rd Ave S': 26
+  '23rd Ave N': 26
+  'Fatherland St': 25
+  'McFerrin Ave': 25
+  '25th Ave N': 25
+  '28th Ave N': 24
+  'N 14th St': 24
+  '15th Ave S': 24
+  'Hadley Ave': 24
+  ... (4560 more values not printed)
+COUNTER RouteId n_unique=14168
+  '': 38
+  '5174': 8
+  '6612': 7
+  '8139': 7
+  '5681': 7
+  '6778': 6
+  '5712': 6
+  '5604': 6
+  '13731': 6
+  '352': 5
+  '6696': 5
+  '7517': 5
+  '6387': 5
+  '5886': 5
+  '7073': 5
+  '11040': 4
+  '5830': 4
+  '12445': 4
+  '7085': 4
+  '12675': 4
+  '10294': 4
+  '11599': 4
+  '12677': 4
+  '6847': 4
+  '7587': 4
+  '13714': 4
+  '14592': 4
+  '8443': 4
+  '6289': 4
+  '8491': 4
+  '5193': 4
+  '9049': 4
+  '1561': 3
+  '12605': 3
+  '7069': 3
+  '14182': 3
+  '10365': 3
+  '6607': 3
+  '10089': 3
+  '12673': 3
+  '7113': 3
+  '12818': 3
+  '1036': 3
+  '5483': 3
+  '4507': 3
+  '7246': 3
+  '7777': 3
+  '12031': 3
+  '13433': 3
+  '6709': 3
+  '13678': 3
+  '11884': 3
+  '5201': 3
+  '9847': 3
+  '13979': 3
+  '167': 3
+  '8318': 3
+  '6631': 3
+  '9922': 3
+  '8227': 3
+  '4670': 3
+  '8320': 3
+  '8141': 3
+  '14597': 3
+  '10341': 3
+  '12606': 3
+  '2208': 3
+  '8074': 3
+  '8533': 3
+  '6085': 3
+  '9803': 3
+  '9031': 3
+  '10498': 3
+  '8389': 3
+  '10415': 3
+  '14684': 3
+  '14602': 3
+  '14127': 3
+  '4052': 3
+  '8383': 3
+  '14698': 3
+  '6550': 3
+  '12703': 3
+  '12332': 3
+  '12792': 3
+  '11368': 3
+  '10217': 3
+  '10149': 3
+  '8739': 3
+  '13948': 3
+  '10485': 3
+  '15309': 3
+  '10457': 3
+  '7984': 3
+  '8405': 3
+  '6478': 3
+  '10891': 3
+  '4638': 3
+  '14419': 3
+  '13006': 3
+  '9339': 3
+  '4747': 2
+  '5757': 2
+  '9607': 2
+  '13947': 2
+  '6993': 2
+  '10436': 2
+  '9574': 2
+  '5594': 2
+  '6838': 2
+  '7261': 2
+  '6347': 2
+  '11312': 2
+  '12325': 2
+  '7778': 2
+  '4852': 2
+  '12512': 2
+  '12713': 2
+  '10253': 2
+  '12046': 2
+  '5767': 2
+  '14930': 2
+  '11377': 2
+  '14697': 2
+  '11202': 2
+  '13793': 2
+  '3945': 2
+  '13674': 2
+  '7028': 2
+  '12650': 2
+  '350': 2
+  '9116': 2
+  '13972': 2
+  '14621': 2
+  '11582': 2
+  '10316': 2
+  '6241': 2
+  '10733': 2
+  '12328': 2
+  '13977': 2
+  '12809': 2
+  '5615': 2
+  '14121': 2
+  '8489': 2
+  '7111': 2
+  '3751': 2
+  '13978': 2
+  '9489': 2
+  '6968': 2
+  '7509': 2
+  '9126': 2
+  '5092': 2
+  '12265': 2
+  '4643': 2
+  '1415': 2
+  '6966': 2
+  '6463': 2
+  '13721': 2
+  '12681': 2
+  '6313': 2
+  '4793': 2
+  '12590': 2
+  '6203': 2
+  '2337': 2
+  '8540': 2
+  '11570': 2
+  '12978': 2
+  '14603': 2
+  '3905': 2
+  '11113': 2
+  '11765': 2
+  '7726': 2
+  '12343': 2
+  '7386': 2
+  '6393': 2
+  '14299': 2
+  '11817': 2
+  '14539': 2
+  '6814': 2
+  '14650': 2
+  '14152': 2
+  '13493': 2
+  '13676': 2
+  '5753': 2
+  '12441': 2
+  '6523': 2
+  '12555': 2
+  '6129': 2
+  '12988': 2
+  '6703': 2
+  '12576': 2
+  '12631': 2
+  '8672': 2
+  '8479': 2
+  '13304': 2
+  '2937': 2
+  '772': 2
+  '9610': 2
+  '8641': 2
+  '14545': 2
+  ... (13968 more values not printed)
+NUMERIC RepairScoreWalkNBike present=12579 missing=2359 zero=8859 negative=0 positive=3720 min=0.0 max=175.0
+  score value census {0: 8859, 5: 3, 10: 11, 15: 8, 20: 16, 25: 58, 30: 72, 35: 55, 40: 66, 45: 67, 50: 73, 55: 156, 60: 118, 65: 153, 70: 156, 75: 195, 80: 174, 85: 288, 90: 302, 95: 217, 100: 244, 105: 222, 110: 127, 115: 172, 120: 170, 125: 132, 130: 129, 135: 83, 140: 58, 145: 65, 150: 29, 155: 49, 160: 22, 165: 16, 170: 13, 175: 1}
+NUMERIC RepairConstructionCost present=12579 missing=2359 zero=10808 negative=0 positive=1771 min=0.0 max=850143.79
+  positive cost distinct values 765 top repeated positive costs [(55158.00029412, 34), (19698.88052632, 19), (18755.06, 18), (12752.5425, 16), (43794.64285714, 14), (33308.32571429, 14), (13015.3675, 12), (9328.9425, 12), (19298.10666667, 12), (28888.55909091, 11)]
+  positive cost rows 1771 rows where cost repeats a value held by 10+ rows 202
+NUMERIC Shape__Length present=14900 missing=38 zero=0 negative=0 positive=14900 min=2.7074243143380827 max=8633.277999893226
+WIDTH parse: positive-numeric=11881 nonblank-unparseable-or-nonpositive sample=[('5-6', 176), ('5-7', 164), ('5-8', 143), ('5-5.5', 141), ('4-5', 103), ('5-9', 75), ('5-10', 52), ('6-8', 50), ('4.5-5', 49), ('6-7', 43)]
+DATES DateRepaired present=2182 missing=12756 min=1998-12-31 max=2024-06-06
+  sentinel check: year<1990=0 year 1970=0 raw 0/negative=0
+  DateRepaired year census {1998: 2, 2001: 49, 2002: 59, 2003: 152, 2004: 301, 2005: 5, 2006: 172, 2007: 191, 2008: 120, 2009: 31, 2010: 41, 2011: 105, 2012: 152, 2013: 202, 2014: 135, 2015: 108, 2016: 161, 2017: 89, 2018: 8, 2019: 1, 2020: 66, 2021: 21, 2022: 2, 2023: 8, 2024: 1}
+POLARITY SAMPLE matched (RepairConstructionCost > 0, first 3): [('5', 'GOOD', '20', '0', '26765.962'), ('11', 'FAIR', '18', '85', '55158.00029412'), ('22', 'GOOD', '05', '0', '31019.978')]
+POLARITY SAMPLE excluded (cost 0/missing, first 3): [('1', 'GOOD', '23', '0', '0'), ('2', 'GOOD', '14', '0', '0'), ('3', 'GOOD', '05', '0', '0')]
+CONDITION x cost-positive / score-positive:
+  '': n=770 cost>0=0 score>0=0 repaired-dated=3
+  ' ': n=992 cost>0=0 score>0=0 repaired-dated=0
+  ' GOOD': n=1 cost>0=0 score>0=0 repaired-dated=1
+  '31': n=1 cost>0=0 score>0=0 repaired-dated=0
+  'FAIR': n=2308 cost>0=182 score>0=2276 repaired-dated=270
+  'GOOD': n=9010 cost>0=1520 score>0=29 repaired-dated=1791
+  'Goo': n=1 cost>0=0 score>0=0 repaired-dated=0
+  'Good': n=386 cost>0=0 score>0=0 repaired-dated=0
+  'Good ': n=1 cost>0=0 score>0=0 repaired-dated=0
+  'NA': n=13 cost>0=0 score>0=0 repaired-dated=0
+  'POOR': n=1454 cost>0=69 score>0=1415 repaired-dated=117
+  'gOOD': n=1 cost>0=0 score>0=0 repaired-dated=0
+PHYSICAL SCALE: total Shape__Length (positive values only) = 7400787.5 native units; field alias in layer metadata is 'Length (ft)' and the service spatial reference is EPSG:2274 (Nashville / Tennessee State Plane, feet), so the native unit is feet; miles below are derived (feet / 5280).
+  total length derived miles = 1401.7
+UNIT AGREEMENT: condition shares divide segments by segments and length by length in separate, labeled computations; cost sums and means use only cost-carrying (cost > 0) segments; score means/medians use only score > 0 segments unless the base is printed as all segments. No segment counts are divided by lengths or vice versa.
+UNKNOWN EXCLUSION: 0, negative, and missing values in RepairScoreWalkNBike, RepairConstructionCost, and Shape__Length are mapped to unknown and excluded from score/cost/length rate denominators; Condition and District blanks are carried as their own blank category on the full 14,938-segment denominator. Asserts below verify the determined + not-determined shares sum to the whole.
+  RepairScoreWalkNBike: determined (positive) 3720 + not-determined (0/missing/negative) 11218 = 14938 OK
+  RepairConstructionCost: determined (positive) 1771 + not-determined (0/missing/negative) 13167 = 14938 OK
+  Shape__Length: determined (positive) 14900 + not-determined (0/missing/negative) 38 = 14938 OK
+CONTROL district totals: sum of District counter = 14938 = rows 14938 OK; districts n_unique=90
+JOIN: no spatial or relational join performed in the base analysis. Crash-layer comparison is city-level against published figures only; sidewalk District is a Metro Council district while the crash layer carries precinct/ZIP geographies, so no district-level crash join is claimed.
